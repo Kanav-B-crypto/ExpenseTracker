@@ -1,0 +1,5 @@
+# Ignore compiled files
+*.o
+*.exe
+# Ignore IDE settings
+.vscode/
